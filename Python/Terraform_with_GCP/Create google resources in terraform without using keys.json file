@@ -1,0 +1,6 @@
+1)Make sure gcloud sdk installed properly
+2)write terraform code
+3)Run in terminal 
+gcloud auth application-default login
+
+Then try to run terraform init , terraform plan, terraform validate
